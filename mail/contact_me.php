@@ -1,6 +1,4 @@
 <?php
-print_r($_POST);
-alert($_POST);
 // Check for empty fields
 if(empty($_POST['name'])      ||
    empty($_POST['email'])     ||
